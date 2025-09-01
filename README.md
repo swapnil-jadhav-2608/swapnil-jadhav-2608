@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Swapnil  
 
-<!--
-**swapnil-jadhav-2608/swapnil-jadhav-2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Node.js developer** passionate about building real-world automation, AI-powered tools, and scalable web applications.  
+I enjoy solving problems with **JavaScript**, exploring **Data Structures & Algorithms**, and experimenting with **LLMs (like Phi & LLaMA)** for contextual reasoning tasks.  
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+- 🕷️ Build **web crawlers & scrapers** (Puppeteer, Axios, Cheerio) for data collection.  
+- 🤖 Integrate **AI/LLMs** into workflows for data analysis & decision-making.  
+- 🌐 Work with **Next.js, MongoDB, MySQL** to create full-stack applications.  
+- 📊 Automate **data pipelines** (CSV, JSON, Google Sheets integrations).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently Exploring
+- Deep dive into **DSA in JavaScript**.  
+- **Event-driven architecture** in Node.js.  
+- Fine-tuning **LLMs (Phi-3, LLaMA, Scout 4)** for custom use cases.  
+
+### 🛠️ Tech Stack
+`Node.js` · `JavaScript` · `Next.js` · `MongoDB` · `MySQL` · `Puppeteer` · `Axios` · `Cheerio`  
+
+---
+
+💡 Always curious to learn, build, and share new things.  
+🌱 Open to collaborations on **AI + automation projects**.  
